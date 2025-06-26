@@ -20,7 +20,9 @@
 
 #include "inputleap/key_types.h"
 
-#include <cstddef> // For size_t
+
+#include <cstddef>
+
 
 #define XK_APL
 #define XK_ARABIC
